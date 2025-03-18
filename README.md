@@ -152,6 +152,7 @@ Create a .env file in the project directory and add the following:
 GOOGLE_API_KEY=your_google_api_key_here
 USER_AGENT=your_custom_user_agent_string
 ```
+#### Note:- You can use "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" as your USER_AGENT
 
 Replace your_google_api_key_here with your actual API key and your_custom_user_agent_string with a valid user-agent string.
 
