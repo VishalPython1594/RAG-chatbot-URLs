@@ -113,8 +113,8 @@ Follow these steps to set up and run the Web Content Q&A Tool on your local mach
 ### 1. Clone the Repository (If Applicable)
 If your code is stored in a repository (e.g., GitHub), clone it using:
 ```bash
-git clone https://github.com/VishalPython1594/RAG-chatbot-URLs.git
-cd RAG-chatbot-URLs
+git clone https://github.com/VishalPython1594/Web-Content-Q-n-A-Tool.git
+cd Web-Content-Q-n-A-Tool
 ```
 ### 2. Set Up a Virtual Environment (Recommended)
 It's best practice to use a virtual environment to avoid dependency conflicts.
