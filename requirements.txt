@@ -1,0 +1,12 @@
+streamlit
+beautifulsoup4
+nltk
+langchain
+langchain-community
+langchain-huggingface
+langchain-chroma
+langchain-google-genai
+langchain-core
+python-dotenv
+huggingface_hub
+chromadb
